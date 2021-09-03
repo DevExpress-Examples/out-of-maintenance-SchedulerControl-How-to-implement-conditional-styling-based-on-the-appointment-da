@@ -12,7 +12,6 @@ For this, handle the AppointmentViewInfoCustomizing event and modify appearance 
 <!-- default file list --> 
 *Files to look at*:
 
-* [Default.aspx](./CS/Default.aspx)
-* [Default.aspx.cs](./CS/Default.aspx.cs)
-* ...
+* [Form1.cs](./CS/Form1.cs)
+* [Form1.vb](./VB/Form1.vb)
 <!-- default file list end -->
